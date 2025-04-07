@@ -56,5 +56,4 @@ flask run
 └── instance/             # Instance folder with database
 ```
 
-## License
-MIT
+
